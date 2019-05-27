@@ -7,21 +7,21 @@ class App extends Component {
   state = {
     contacts : [
     {
-      "id" :"ryan",
+      "id" :"masnoon",
       "name": "Masnoon Junaid",
       "email":"masnoon20@gmail.com",
       "avatarURL":"https://localhost:5001/ryan.jpg"
     },
     {
-      "id":"michael",
-      "name":"Michael Jackson",
-      "email":"michael@reacttraining.com",
+      "id":"minhaz",
+      "name":"Minhaz Alam",
+      "email":"minhazahmad564@gmail.com",
       "avatarURL":"https://localhost:5001/michael.jpg"
     },
     {
-      "id":"tyler",
-      "name":"Tyler McGinnis",
-      "email":"tyler@reacttraining.com",
+      "id":"saif",
+      "name":"Saif Alam",
+      "email":"saifalam17@gmail.com",
       "avatarURL":"https://localhost:5001/tyler.jpg"
     }
     ]
